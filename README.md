@@ -14,6 +14,7 @@ Our model was trained on a Paperspace P5000 Notebook; each epoch ran for roughly
 ## Contributers
 
 Aryan Misra – aryanmisra@outlook.com
+
 Alex Yu - alexjyu@yahoo.com
 
 https://github.com/aryanmisra
