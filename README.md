@@ -3,7 +3,7 @@ A predictive model that uses the HAM10000 dataset, trained on MobileNet to class
 
 We have trained the model locally using native Keras, then we converted it to TensorflowJS, allowing for a smooth web deployment. Our model's accuracy score settles around 82%, this is mainly due to a small and unbalanced dataset. 
 
-Our training process is documented in the jupyter notebook file. The TFJS files, Jupyter Notebook files, as well as our web deployment files are all accessible here. 
+Our training process is documented in the preprocessing and model python files. The TFJS files, Python files, as well as our web deployment files are all accessible here. 
 
 Our model was trained on a Paperspace P5000 Notebook; each epoch ran for roughly 15 minutes, totalling to 2 hours and 30 minutes for 10 epochs. 
 
