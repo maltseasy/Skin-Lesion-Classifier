@@ -1,5 +1,5 @@
 # Skin Lesion Classifier 
-A predictive model that uses the HAM10000 dataset, trained on MobileNet to classify skin lesions into seven categories. Our model has been deployed on a web app. http://aryanmisra.me/skinpredict.html
+A predictive model that uses the HAM10000 dataset, trained on MobileNet to classify skin lesions into seven categories. Our model has been deployed on a web app. https://aryanmisra.com/skinpredict/
 
 We have trained the model locally using native Keras, then we converted it to TensorflowJS, allowing for a smooth web deployment. Our model's accuracy score settles around 82%, this is mainly due to a small and unbalanced dataset. 
 
