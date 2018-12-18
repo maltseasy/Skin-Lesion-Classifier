@@ -8,19 +8,6 @@ Our training process is documented in the preprocessing and model python files. 
 Our model was trained on a Paperspace P5000 Notebook; each epoch ran for roughly 15 minutes, totalling to 2 hours and 30 minutes for 10 epochs. 
 
 
-
-
-
-## Contributors
-
-Aryan Misra – aryanmisra@outlook.com
-
-Alex Yu - alexjyu@yahoo.com
-
-https://github.com/aryanmisra
-
-https://github.com/uyxela
-
 ## Acknowledgements
 
 1. (Marsh's Skin Lesion Analyzer) - [https://www.kaggle.com/vbookshelf/skin-lesion-analyzer-tensorflow-js-web-app/notebook]
