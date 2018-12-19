@@ -13,3 +13,5 @@ Our model was trained on a Paperspace P5000 Notebook; each epoch ran for roughly
 1. (Marsh's Skin Lesion Analyzer) - [https://www.kaggle.com/vbookshelf/skin-lesion-analyzer-tensorflow-js-web-app/notebook]
 2. (HAM10000 Dataset) - [https://arxiv.org/ftp/arxiv/papers/1803/1803.10417.pdf]
 3. (Skin Lesion Classification) - [https://arxiv.org/pdf/1812.02316.pdf]
+
+Blog post on this: https://towardsdatascience.com/classifying-skin-lesions-with-convolutional-neural-networks-fc1302c60d54
